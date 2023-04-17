@@ -96,7 +96,7 @@ function App() {
       <Header>
         <AppName>
           <MovieImage src="./movie-icon.svg" />
-          Dev Mo Movie App
+          Movie Search App
         </AppName>
         <SearchBox>
           <SearchIcon src="./search-icon.svg" />
