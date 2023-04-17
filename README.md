@@ -1,4 +1,4 @@
-# Dev Mo Movie App - ReactJS Projects
+# Movie Search App 
 
 ![](movie.gif)
 
